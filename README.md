@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @akilascc
 - 👀 I’m interested in Ionic Development, Firebase and Java
-- 🌱 I’m currently learning nextjs.
 - 📫 How to reach me linkedin.com/in/aquilasccidrao/
 
 
